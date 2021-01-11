@@ -90,5 +90,15 @@ namespace Bunifu_Browser
                 }
             }
         }
+
+        private void bunifuImageButton5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuImageButton6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
